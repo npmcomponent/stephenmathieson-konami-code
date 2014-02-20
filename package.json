@@ -1,0 +1,15 @@
+{
+  "name": "stephenmathieson-konami-code",
+  "description": "Execute a callback when the Konami Code is entered",
+  "version": "0.0.1",
+  "keywords": [
+    "keyboard",
+    "konami"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "component-event": "git://github.com/npmcomponent/component-event.git",
+    "component-keyname": "git://github.com/npmcomponent/component-keyname.git"
+  },
+  "license": "MIT"
+}

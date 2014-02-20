@@ -1,8 +1,8 @@
 
 'use strict';
 
-var ev = require('event'),
-    keyname = require('keyname');
+var ev = require('component-event'),
+    keyname = require('component-keyname');
 
 /**
  * Invoke `fn` when the Konami Code is entered
